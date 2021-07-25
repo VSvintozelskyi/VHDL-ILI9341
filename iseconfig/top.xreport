@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2021-07-25T18:51:07</DateModified>
+  <DateModified>2021-07-25T21:32:26</DateModified>
   <ModuleName>top</ModuleName>
-  <SummaryTimeStamp>2021-07-25T18:45:54</SummaryTimeStamp>
+  <SummaryTimeStamp>2021-07-25T20:12:11</SummaryTimeStamp>
   <SavedFilePath>/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/iseconfig/top.xreport</SavedFilePath>
   <ImplementationReportsDirectory>/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/</ImplementationReportsDirectory>
   <DateInitialized>2021-07-24T04:29:47</DateInitialized>

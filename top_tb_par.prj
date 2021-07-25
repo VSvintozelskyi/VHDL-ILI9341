@@ -1,5 +1,0 @@
-vhdl work "spi_tb.vhd"
-vhdl work "pll_tb.vhd"
-vhdl work "memory_tb.vhd"
-vhdl work "netgen/par/top_timesim.vhd"
-vhdl work "top_tb.vhd"

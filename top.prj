@@ -1,5 +1,0 @@
-vhdl work "memory.vhd"
-vhdl work "spi.vhd"
-vhdl work "top.vhdl"
-vhdl work "pll2.vhd"
-vhdl work "fsm.vhd"
