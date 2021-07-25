@@ -1,0 +1,50 @@
+Running: /mnt/sda2/Program_Files/ISE/14.7/ISE_DS/ISE/bin/lin/unwrapped/fuse -intstyle ise -incremental -o /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top_tb_isim_par.exe -prj /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top_tb_par.prj work.top_tb 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/spi_tb.vhd" into library work
+Parsing VHDL file "/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/pll_tb.vhd" into library work
+Parsing VHDL file "/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/memory_tb.vhd" into library work
+Parsing VHDL file "/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/netgen/par/top_timesim.vhd" into library work
+Parsing VHDL file "/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 73520 KB
+Fuse CPU Usage: 1200 ms
+Compiling package standard
+Compiling package std_logic_1164
+WARNING:Simulator:752 - Running 32 bit ISIM on 64 bit Linux
+Compiling package textio
+Compiling package vital_timing
+Compiling package vcomponents
+Compiling package vital_primitives
+Compiling package vpackage
+Compiling architecture x_zero_v of entity X_ZERO [\X_ZERO("UNPLACED")(1,8)\]
+Compiling architecture x_one_v of entity X_ONE [\X_ONE("UNPLACED")(1,8)\]
+Compiling architecture x_buf_v of entity X_BUF [\X_BUF(true,true,"UNPLACED",(0,0...]
+Compiling architecture x_xor2_v of entity X_XOR2 [\X_XOR2(true,true,"UNPLACED",(0,...]
+Compiling architecture x_mux2_v of entity X_MUX2 [\X_MUX2(true,true,"UNPLACED",(0,...]
+Compiling architecture x_and2_v of entity X_AND2 [\X_AND2(true,true,"UNPLACED",(0,...]
+Compiling architecture x_lut4_v of entity X_LUT4 [\X_LUT4(true,true,"UNPLACED",(0,...]
+Compiling architecture x_obuf_v of entity X_OBUF [\X_OBUF(true,true,"DONT_CARE",12...]
+Compiling architecture x_bufgmux_v of entity X_BUFGMUX [\X_BUFGMUX(true,"*",true,false,"...]
+Compiling architecture x_inv_v of entity X_INV [\X_INV(true,true,"BUFGMUX_X2Y11"...]
+Compiling architecture x_dcm_sp_clock_divide_by_2_v of entity x_dcm_sp_clock_divide_by_2 [x_dcm_sp_clock_divide_by_2_defau...]
+Compiling architecture x_dcm_sp_maximum_period_check_v of entity x_dcm_sp_maximum_period_check [\x_dcm_sp_maximum_period_check("...]
+Compiling architecture x_dcm_sp_maximum_period_check_v of entity x_dcm_sp_maximum_period_check [\x_dcm_sp_maximum_period_check("...]
+Compiling architecture x_dcm_sp_clock_lost_v of entity x_dcm_sp_clock_lost [x_dcm_sp_clock_lost_default]
+Compiling architecture x_dcm_sp_v of entity X_DCM_SP [\X_DCM_SP(true,"*",true,false,"U...]
+Compiling architecture x_sff_v of entity X_SFF [\X_SFF(true,true,true,"UNPLACED"...]
+Compiling architecture x_ff_v of entity X_FF [\X_FF(true,true,true,"UNPLACED",...]
+Compiling architecture x_roc_v of entity X_ROC [\X_ROC("UNPLACED",100000,"*")(1,...]
+Compiling architecture x_toc_v of entity X_TOC [\X_TOC("UNPLACED",0,"*")(1,8,1,1...]
+Compiling architecture structure of entity top [top_default]
+Compiling architecture behavior of entity top_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 1168 VHDL Units
+Built simulation executable /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top_tb_isim_par.exe
+Fuse Memory Usage: 154192 KB
+Fuse CPU Usage: 2190 ms
+GCC CPU Usage: 5280 ms

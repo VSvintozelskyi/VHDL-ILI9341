@@ -1,0 +1,40 @@
+NET "hclk" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "cs" IOSTANDARD = LVCMOS33;
+
+NET "rsto" LOC = D12;
+NET "cs" LOC = C13;
+NET "dc" LOC = A13;
+NET "sdo" LOC = C12;
+NET "sck" LOC = C9;
+NET "hclk" LOC = B8;
+NET "rsti" LOC = G12;
+
+NET "sdo" IOSTANDARD = LVCMOS33;
+NET "sck" IOSTANDARD = LVCMOS33;
+NET "rsto" IOSTANDARD = LVCMOS33;
+NET "dc" IOSTANDARD = LVCMOS33;
+#Created by Constraints Editor (xc3s100e-cp132-4) - 2021/07/23
+NET "leds[7]" LOC = G1;
+NET "leds[6]" LOC = P4;
+NET "leds[5]" LOC = N4;
+NET "leds[4]" LOC = N5;
+NET "leds[3]" LOC = P6;
+NET "leds[2]" LOC = P7;
+NET "leds[1]" LOC = M11;
+NET "leds[0]" LOC = M5;
+#Created by Constraints Editor (xc3s100e-cp132-4) - 2021/07/25
+NET "hclk" TNM_NET = "hclk";
+TIMESPEC TS_hclk = PERIOD "hclk" 20 ns HIGH 50 %;
+#Created by Constraints Editor (xc3s100e-cp132-4) - 2021/07/25
+TIMESPEC TS_ = FROM  FFS TO  PADS 10 ns;
+
+# PlanAhead Generated physical constraints 
+
+NET "sw[7]" LOC = N3;
+NET "sw[6]" LOC = E2;
+NET "sw[5]" LOC = F3;
+NET "sw[4]" LOC = G3;
+NET "sw[3]" LOC = B4;
+NET "sw[2]" LOC = K3;
+NET "sw[1]" LOC = L3;
+NET "sw[0]" LOC = P11;

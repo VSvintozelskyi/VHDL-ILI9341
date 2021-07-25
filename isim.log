@@ -1,0 +1,463 @@
+ISim log file
+Running: /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top_tb_isim_par.exe -intstyle ise -gui -sdfmax //=netgen/par/top_timesim.sdf -sdfroot / -tclbatch isim.cmd -wdb /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top_tb_isim_par.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+This is a Full version of ISim.
+ERROR: Can not find hierarchical name slowcnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_1.
+ERROR: Can not find hierarchical name slowcnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_1.
+ERROR: Can not find hierarchical name slowcnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_0.
+ERROR: Can not find hierarchical name slowcnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_0.
+ERROR: Can not find hierarchical name slowcnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_3.
+ERROR: Can not find hierarchical name slowcnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_3.
+ERROR: Can not find hierarchical name slowcnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_2.
+ERROR: Can not find hierarchical name slowcnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_2.
+ERROR: Can not find hierarchical name slowcnt_5 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_5.
+ERROR: Can not find hierarchical name slowcnt_5 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_5.
+ERROR: Can not find hierarchical name slowcnt_4 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_4.
+ERROR: Can not find hierarchical name slowcnt_4 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_4.
+ERROR: Can not find hierarchical name slowcnt_7 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_7.
+ERROR: Can not find hierarchical name slowcnt_7 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_7.
+ERROR: Can not find hierarchical name slowcnt_6 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_6.
+ERROR: Can not find hierarchical name slowcnt_6 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_6.
+ERROR: Can not find hierarchical name slowcnt_9 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_9.
+ERROR: Can not find hierarchical name slowcnt_9 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_9.
+ERROR: Can not find hierarchical name slowcnt_8 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_8.
+ERROR: Can not find hierarchical name slowcnt_8 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_8.
+ERROR: Can not find hierarchical name slowcnt_11 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_11.
+ERROR: Can not find hierarchical name slowcnt_11 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_11.
+ERROR: Can not find hierarchical name slowcnt_10 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_10.
+ERROR: Can not find hierarchical name slowcnt_10 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_10.
+ERROR: Can not find hierarchical name slowcnt_13 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_13.
+ERROR: Can not find hierarchical name slowcnt_13 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_13.
+ERROR: Can not find hierarchical name slowcnt_12 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_12.
+ERROR: Can not find hierarchical name slowcnt_12 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_12.
+ERROR: Can not find hierarchical name slowcnt_15 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_15.
+ERROR: Can not find hierarchical name slowcnt_15 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_15.
+ERROR: Can not find hierarchical name slowcnt_22 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_22.
+ERROR: Can not find hierarchical name slowcnt_22 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_22.
+ERROR: Can not find hierarchical name slowcnt_25 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_25.
+ERROR: Can not find hierarchical name slowcnt_25 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_25.
+ERROR: Can not find hierarchical name slowcnt_24 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_24.
+ERROR: Can not find hierarchical name slowcnt_24 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_24.
+ERROR: Can not find hierarchical name slowcnt_27 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_27.
+ERROR: Can not find hierarchical name slowcnt_27 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_27.
+ERROR: Can not find hierarchical name slowcnt_26 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_26.
+ERROR: Can not find hierarchical name slowcnt_26 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_26.
+ERROR: Can not find hierarchical name slowcnt_29 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_29.
+ERROR: Can not find hierarchical name slowcnt_29 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_29.
+ERROR: Can not find hierarchical name slowcnt_28 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_28.
+ERROR: Can not find hierarchical name slowcnt_28 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_28.
+ERROR: Can not find hierarchical name slowcnt_30 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_30.
+ERROR: Can not find hierarchical name slowcnt_30 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_30.
+ERROR: Can not find hierarchical name slowcnt_14 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_14.
+ERROR: Can not find hierarchical name slowcnt_14 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_14.
+ERROR: Can not find hierarchical name slowcnt_17 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_17.
+ERROR: Can not find hierarchical name slowcnt_17 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_17.
+ERROR: Can not find hierarchical name slowcnt_16 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_16.
+ERROR: Can not find hierarchical name slowcnt_16 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_16.
+ERROR: Can not find hierarchical name slowcnt_19 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_19.
+ERROR: Can not find hierarchical name slowcnt_19 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_19.
+ERROR: Can not find hierarchical name slowcnt_18 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_18.
+ERROR: Can not find hierarchical name slowcnt_18 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_18.
+ERROR: Can not find hierarchical name slowcnt_21 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_21.
+ERROR: Can not find hierarchical name slowcnt_21 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_21.
+ERROR: Can not find hierarchical name slowcnt_20 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_20.
+ERROR: Can not find hierarchical name slowcnt_20 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_20.
+ERROR: Can not find hierarchical name slowcnt_23 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_23.
+ERROR: Can not find hierarchical name slowcnt_23 in the current scope.
+ERROR: SetupHold can not be annotated for slowcnt_23.
+ERROR: Can not find hierarchical name spi_module_cdata_8 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_8.
+ERROR: Can not find hierarchical name spi_module_cdata_8 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_8.
+ERROR: Can not find hierarchical name fsm_module_state_2 in the current scope.
+ERROR: SetupHold can not be annotated for fsm_module_state_2.
+ERROR: Can not find hierarchical name fsm_module_state_2 in the current scope.
+ERROR: SetupHold can not be annotated for fsm_module_state_2.
+ERROR: Can not find hierarchical name fsm_module_state_1 in the current scope.
+ERROR: SetupHold can not be annotated for fsm_module_state_1.
+ERROR: Can not find hierarchical name fsm_module_state_1 in the current scope.
+ERROR: SetupHold can not be annotated for fsm_module_state_1.
+ERROR: Can not find hierarchical name spi_module_cdata_1 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_1.
+ERROR: Can not find hierarchical name spi_module_cdata_1 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_1.
+ERROR: Can not find hierarchical name cmdcnt_5 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_5.
+ERROR: Can not find hierarchical name cmdcnt_5 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_5.
+ERROR: Can not find hierarchical name cmdcnt_5 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_5.
+ERROR: Can not find hierarchical name cmdcnt_5 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_5.
+ERROR: Can not find hierarchical name spi_module_cdata_0 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_0.
+ERROR: Can not find hierarchical name spi_module_cdata_0 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_0.
+ERROR: Can not find hierarchical name cmdcnt_6 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_6.
+ERROR: Can not find hierarchical name cmdcnt_6 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_6.
+ERROR: Can not find hierarchical name cmdcnt_6 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_6.
+ERROR: Can not find hierarchical name cmdcnt_6 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_6.
+ERROR: Can not find hierarchical name spi_module_sdo in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_sdo.
+ERROR: Can not find hierarchical name spi_module_sdo in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_sdo.
+ERROR: Can not find hierarchical name cmdcnt_4 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_4.
+ERROR: Can not find hierarchical name cmdcnt_4 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_4.
+ERROR: Can not find hierarchical name cmdcnt_4 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_4.
+ERROR: Can not find hierarchical name cmdcnt_4 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_4.
+ERROR: Can not find hierarchical name waitcnt_10 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_10.
+ERROR: Can not find hierarchical name waitcnt_10 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_10.
+ERROR: Can not find hierarchical name waitcnt_11 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_11.
+ERROR: Can not find hierarchical name waitcnt_11 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_11.
+ERROR: Can not find hierarchical name waitcnt_12 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_12.
+ERROR: Can not find hierarchical name waitcnt_12 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_12.
+ERROR: Can not find hierarchical name waitcnt_13 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_13.
+ERROR: Can not find hierarchical name waitcnt_13 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_13.
+ERROR: Can not find hierarchical name waitcnt_14 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_14.
+ERROR: Can not find hierarchical name waitcnt_14 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_14.
+ERROR: Can not find hierarchical name waitcnt_15 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_15.
+ERROR: Can not find hierarchical name waitcnt_15 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_15.
+ERROR: Can not find hierarchical name waitcnt_16 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_16.
+ERROR: Can not find hierarchical name waitcnt_16 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_16.
+ERROR: Can not find hierarchical name waitcnt_17 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_17.
+ERROR: Can not find hierarchical name waitcnt_17 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_17.
+ERROR: Can not find hierarchical name waitcnt_18 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_18.
+ERROR: Can not find hierarchical name waitcnt_18 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_18.
+ERROR: Can not find hierarchical name waitcnt_19 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_19.
+ERROR: Can not find hierarchical name waitcnt_19 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_19.
+ERROR: Can not find hierarchical name waitcnt_4 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_4.
+ERROR: Can not find hierarchical name waitcnt_4 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_4.
+ERROR: Can not find hierarchical name waitcnt_5 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_5.
+ERROR: Can not find hierarchical name waitcnt_5 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_5.
+ERROR: Can not find hierarchical name waitcnt_6 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_6.
+ERROR: Can not find hierarchical name waitcnt_6 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_6.
+ERROR: Can not find hierarchical name waitcnt_7 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_7.
+ERROR: Can not find hierarchical name waitcnt_7 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_7.
+ERROR: Can not find hierarchical name waitcnt_8 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_8.
+ERROR: Can not find hierarchical name waitcnt_8 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_8.
+ERROR: Can not find hierarchical name waitcnt_9 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_9.
+ERROR: Can not find hierarchical name waitcnt_9 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_9.
+ERROR: Can not find hierarchical name rstcnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for rstcnt_0.
+ERROR: Can not find hierarchical name rstcnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for rstcnt_0.
+ERROR: Can not find hierarchical name rstcnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for rstcnt_1.
+ERROR: Can not find hierarchical name rstcnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for rstcnt_1.
+ERROR: Can not find hierarchical name cmdcnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_2.
+ERROR: Can not find hierarchical name cmdcnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_2.
+ERROR: Can not find hierarchical name cmdcnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_2.
+ERROR: Can not find hierarchical name cmdcnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_2.
+ERROR: Can not find hierarchical name cmdcnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_3.
+ERROR: Can not find hierarchical name cmdcnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_3.
+ERROR: Can not find hierarchical name cmdcnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_3.
+ERROR: Can not find hierarchical name cmdcnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_3.
+ERROR: Can not find hierarchical name spi_module_cnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_2.
+ERROR: Can not find hierarchical name spi_module_cnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_2.
+ERROR: Can not find hierarchical name spi_module_cnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_2.
+ERROR: Can not find hierarchical name spi_module_cnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_2.
+ERROR: Can not find hierarchical name spi_module_cnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_3.
+ERROR: Can not find hierarchical name spi_module_cnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_3.
+ERROR: Can not find hierarchical name spi_module_cnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_3.
+ERROR: Can not find hierarchical name spi_module_cnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_3.
+ERROR: Can not find hierarchical name spi_module_cnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_3.
+ERROR: Can not find hierarchical name spi_module_cnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_3.
+ERROR: Can not find hierarchical name spi_module_cdata_3 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_3.
+ERROR: Can not find hierarchical name spi_module_cdata_3 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_3.
+ERROR: Can not find hierarchical name spi_module_cdata_4 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_4.
+ERROR: Can not find hierarchical name spi_module_cdata_4 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_4.
+ERROR: Can not find hierarchical name spi_module_cdata_5 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_5.
+ERROR: Can not find hierarchical name spi_module_cdata_5 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_5.
+ERROR: Can not find hierarchical name spi_module_cdata_6 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_6.
+ERROR: Can not find hierarchical name spi_module_cdata_6 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_6.
+ERROR: Can not find hierarchical name spi_module_cdata_7 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_7.
+ERROR: Can not find hierarchical name spi_module_cdata_7 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_7.
+ERROR: Can not find hierarchical name fsm_module_state_0 in the current scope.
+ERROR: SetupHold can not be annotated for fsm_module_state_0.
+ERROR: Can not find hierarchical name fsm_module_state_0 in the current scope.
+ERROR: SetupHold can not be annotated for fsm_module_state_0.
+ERROR: Can not find hierarchical name fsm_module_state_3 in the current scope.
+ERROR: SetupHold can not be annotated for fsm_module_state_3.
+ERROR: Can not find hierarchical name fsm_module_state_3 in the current scope.
+ERROR: SetupHold can not be annotated for fsm_module_state_3.
+ERROR: Can not find hierarchical name waitcnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_0.
+ERROR: Can not find hierarchical name waitcnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_0.
+ERROR: Can not find hierarchical name waitcnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_1.
+ERROR: Can not find hierarchical name waitcnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_1.
+ERROR: Can not find hierarchical name waitcnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_2.
+ERROR: Can not find hierarchical name waitcnt_2 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_2.
+ERROR: Can not find hierarchical name waitcnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_3.
+ERROR: Can not find hierarchical name waitcnt_3 in the current scope.
+ERROR: SetupHold can not be annotated for waitcnt_3.
+ERROR: Can not find hierarchical name slowclk in the current scope.
+ERROR: SetupHold can not be annotated for slowclk.
+ERROR: Can not find hierarchical name slowclk in the current scope.
+ERROR: SetupHold can not be annotated for slowclk.
+ERROR: Can not find hierarchical name spi_module_cdata_2 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_2.
+ERROR: Can not find hierarchical name spi_module_cdata_2 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cdata_2.
+ERROR: Can not find hierarchical name spi_module_cs in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cs.
+ERROR: Can not find hierarchical name spi_module_cs in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cs.
+ERROR: Can not find hierarchical name cmdcnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0.
+ERROR: Can not find hierarchical name cmdcnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0.
+ERROR: Can not find hierarchical name cmdcnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0.
+ERROR: Can not find hierarchical name cmdcnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0.
+ERROR: Can not find hierarchical name cmdcnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1.
+ERROR: Can not find hierarchical name cmdcnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1.
+ERROR: Can not find hierarchical name cmdcnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1.
+ERROR: Can not find hierarchical name cmdcnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1.
+ERROR: Can not find hierarchical name cmdcnt_0_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0_1.
+ERROR: Can not find hierarchical name cmdcnt_0_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0_1.
+ERROR: Can not find hierarchical name cmdcnt_0_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0_1.
+ERROR: Can not find hierarchical name cmdcnt_0_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0_1.
+ERROR: Can not find hierarchical name cmdcnt_0_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0_2.
+ERROR: Can not find hierarchical name cmdcnt_0_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0_2.
+ERROR: Can not find hierarchical name cmdcnt_0_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0_2.
+ERROR: Can not find hierarchical name cmdcnt_0_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_0_2.
+ERROR: Can not find hierarchical name spi_module_dco in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_dco.
+ERROR: Can not find hierarchical name spi_module_dco in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_dco.
+ERROR: Can not find hierarchical name cmdcnt_1_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1_1.
+ERROR: Can not find hierarchical name cmdcnt_1_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1_1.
+ERROR: Can not find hierarchical name cmdcnt_1_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1_1.
+ERROR: Can not find hierarchical name cmdcnt_1_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1_1.
+ERROR: Can not find hierarchical name cmdcnt_1_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1_2.
+ERROR: Can not find hierarchical name cmdcnt_1_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1_2.
+ERROR: Can not find hierarchical name cmdcnt_1_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1_2.
+ERROR: Can not find hierarchical name cmdcnt_1_2 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_1_2.
+ERROR: Can not find hierarchical name cmdcnt_2_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_2_1.
+ERROR: Can not find hierarchical name cmdcnt_2_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_2_1.
+ERROR: Can not find hierarchical name cmdcnt_2_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_2_1.
+ERROR: Can not find hierarchical name cmdcnt_2_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_2_1.
+ERROR: Can not find hierarchical name cmdcnt_3_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_3_1.
+ERROR: Can not find hierarchical name cmdcnt_3_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_3_1.
+ERROR: Can not find hierarchical name cmdcnt_3_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_3_1.
+ERROR: Can not find hierarchical name cmdcnt_3_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_3_1.
+ERROR: Can not find hierarchical name cmdcnt_4_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_4_1.
+ERROR: Can not find hierarchical name cmdcnt_4_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_4_1.
+ERROR: Can not find hierarchical name cmdcnt_4_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_4_1.
+ERROR: Can not find hierarchical name cmdcnt_4_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_4_1.
+ERROR: Can not find hierarchical name spi_module_cnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_1.
+ERROR: Can not find hierarchical name spi_module_cnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_1.
+ERROR: Can not find hierarchical name spi_module_cnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_1.
+ERROR: Can not find hierarchical name spi_module_cnt_1 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_1.
+ERROR: Can not find hierarchical name spi_module_cnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_0.
+ERROR: Can not find hierarchical name spi_module_cnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_0.
+ERROR: Can not find hierarchical name spi_module_cnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_0.
+ERROR: Can not find hierarchical name spi_module_cnt_0 in the current scope.
+ERROR: SetupHold can not be annotated for spi_module_cnt_0.
+ERROR: Can not find hierarchical name cmdcnt_5_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_5_1.
+ERROR: Can not find hierarchical name cmdcnt_5_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_5_1.
+ERROR: Can not find hierarchical name cmdcnt_5_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_5_1.
+ERROR: Can not find hierarchical name cmdcnt_5_1 in the current scope.
+ERROR: SetupHold can not be annotated for cmdcnt_5_1.
+WARNING: ISim could not properly annotate the SDF timing delay information.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 1.00us
+# run 10.00us

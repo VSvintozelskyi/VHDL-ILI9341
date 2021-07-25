@@ -1,0 +1,10 @@
+EN spi NULL /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/spi.vhd sub00/vhpl02 1627231279
+EN top NULL /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top.vhdl sub00/vhpl08 1627231285
+EN memory NULL /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/memory.vhd sub00/vhpl04 1627231281
+AR top behavioral /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top.vhdl sub00/vhpl09 1627231286
+EN pll2 NULL /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/pll2.vhd sub00/vhpl00 1627231277
+AR pll2 behavioral /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/pll2.vhd sub00/vhpl01 1627231278
+AR memory behavioral /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/memory.vhd sub00/vhpl05 1627231282
+EN fsm NULL /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/fsm.vhd sub00/vhpl06 1627231283
+AR fsm behavioral /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/fsm.vhd sub00/vhpl07 1627231284
+AR spi behavioral /mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/spi.vhd sub00/vhpl03 1627231280

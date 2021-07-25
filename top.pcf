@@ -1,0 +1,64 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sun Jul 25 19:41:27 2021
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "dc" LOCATE = SITE "A13" LEVEL 1;
+COMP "leds<0>" LOCATE = SITE "M5" LEVEL 1;
+COMP "leds<1>" LOCATE = SITE "M11" LEVEL 1;
+COMP "hclk" LOCATE = SITE "B8" LEVEL 1;
+PIN hclk_pin<0> = BEL "hclk" PINNAME PAD;
+PIN "hclk_pin<0>" CLOCK_DEDICATED_ROUTE = FALSE;
+COMP "cs" LOCATE = SITE "C13" LEVEL 1;
+COMP "leds<2>" LOCATE = SITE "P7" LEVEL 1;
+COMP "leds<3>" LOCATE = SITE "P6" LEVEL 1;
+COMP "leds<4>" LOCATE = SITE "N5" LEVEL 1;
+COMP "leds<5>" LOCATE = SITE "N4" LEVEL 1;
+COMP "leds<6>" LOCATE = SITE "P4" LEVEL 1;
+COMP "leds<7>" LOCATE = SITE "G1" LEVEL 1;
+COMP "sck" LOCATE = SITE "C9" LEVEL 1;
+COMP "sw<0>" LOCATE = SITE "P11" LEVEL 1;
+COMP "sw<1>" LOCATE = SITE "L3" LEVEL 1;
+COMP "sw<2>" LOCATE = SITE "K3" LEVEL 1;
+COMP "sw<3>" LOCATE = SITE "B4" LEVEL 1;
+COMP "sw<4>" LOCATE = SITE "G3" LEVEL 1;
+COMP "sw<5>" LOCATE = SITE "F3" LEVEL 1;
+COMP "sw<6>" LOCATE = SITE "E2" LEVEL 1;
+COMP "sw<7>" LOCATE = SITE "N3" LEVEL 1;
+COMP "sdo" LOCATE = SITE "C12" LEVEL 1;
+COMP "rsti" LOCATE = SITE "G12" LEVEL 1;
+COMP "rsto" LOCATE = SITE "D12" LEVEL 1;
+NET "hclk_IBUFG1" BEL "hclk_IBUFG_BUFG.GCLKMUX" USELOCALCONNECT;
+TIMEGRP hclk = BEL "slowclk" BEL "waitcnt_0" BEL "waitcnt_1" BEL "waitcnt_2"
+        BEL "waitcnt_3" BEL "waitcnt_4" BEL "waitcnt_5" BEL "waitcnt_6" BEL
+        "waitcnt_7" BEL "waitcnt_8" BEL "waitcnt_9" BEL "waitcnt_10" BEL
+        "waitcnt_11" BEL "waitcnt_12" BEL "waitcnt_13" BEL "waitcnt_14" BEL
+        "waitcnt_15" BEL "waitcnt_16" BEL "waitcnt_17" BEL "waitcnt_18" BEL
+        "waitcnt_19" BEL "sdo" BEL "dc" BEL "cs" BEL "rstcnt_0" BEL "rstcnt_1"
+        BEL "cmdcnt_0" BEL "cmdcnt_1" BEL "cmdcnt_2" BEL "cmdcnt_3" BEL
+        "cmdcnt_4" BEL "cmdcnt_5" BEL "cmdcnt_6" BEL "slowcnt_0" BEL
+        "slowcnt_1" BEL "slowcnt_2" BEL "slowcnt_3" BEL "slowcnt_4" BEL
+        "slowcnt_5" BEL "slowcnt_6" BEL "slowcnt_7" BEL "slowcnt_8" BEL
+        "slowcnt_9" BEL "slowcnt_10" BEL "slowcnt_11" BEL "slowcnt_12" BEL
+        "slowcnt_13" BEL "slowcnt_14" BEL "slowcnt_15" BEL "slowcnt_16" BEL
+        "slowcnt_17" BEL "slowcnt_18" BEL "slowcnt_19" BEL "slowcnt_20" BEL
+        "slowcnt_21" BEL "slowcnt_22" BEL "slowcnt_23" BEL "slowcnt_24" BEL
+        "slowcnt_25" BEL "slowcnt_26" BEL "slowcnt_27" BEL "slowcnt_28" BEL
+        "slowcnt_29" BEL "slowcnt_30" BEL "spi_module/cnt_2" BEL
+        "spi_module/cnt_1" BEL "spi_module/cnt_3" BEL "spi_module/cnt_0" BEL
+        "spi_module/sdo" BEL "spi_module/dco" BEL "spi_module/cdata_8" BEL
+        "spi_module/cdata_7" BEL "spi_module/cdata_6" BEL "spi_module/cdata_5"
+        BEL "spi_module/cdata_4" BEL "spi_module/cdata_3" BEL
+        "spi_module/cdata_2" BEL "spi_module/cdata_1" BEL "spi_module/cdata_0"
+        BEL "spi_module/cs" BEL "fsm_module/state_4" BEL "fsm_module/state_3"
+        BEL "fsm_module/state_2" BEL "fsm_module/state_1" BEL
+        "fsm_module/state_0" BEL "cmdcnt_5_1" BEL "cmdcnt_4_1" BEL
+        "cmdcnt_1_1" BEL "cmdcnt_3_1" BEL "cmdcnt_2_1" BEL "cmdcnt_2_2" BEL
+        "cmdcnt_3_2" BEL "cmdcnt_0_1" BEL "sck" BEL "hclk_IBUFG_BUFG.GCLKMUX"
+        BEL "hclk_IBUFG_BUFG";
+TS_hclk = PERIOD TIMEGRP "hclk" 20 ns HIGH 50%;
+TIMEGRP "FFS" = FFS(*);
+TIMEGRP "PADS" = PADS(*);
+TS_ = MAXDELAY FROM TIMEGRP "FFS" TO TIMEGRP "PADS" 10 ns;
+SCHEMATIC END;
+

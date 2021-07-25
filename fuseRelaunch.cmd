@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top_tb_isim_par.exe" -prj "/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top_tb_par.prj" "work.top_tb" 

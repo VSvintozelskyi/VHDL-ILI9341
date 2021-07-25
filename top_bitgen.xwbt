@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top.ncd
+OUTFILE=/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit/top.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4cp132
+WORKINGDIR=/mnt/sda2/Documents/FPGA/xilinx/DisplayAdafruit
+LICENSE=WebPack
+USER_INFO=__0_0_0
